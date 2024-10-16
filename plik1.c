@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-	printf("siema1");
+	printf("siema12");
 	return 0;
 }
